@@ -1,0 +1,6 @@
+requests==2.23.0
+fastai==1.0.60
+numpy==1.19.3
+streamlit_nightly==0.71.1.dev20201129
+Pillow==8.2.0
+streamlit==0.80.0
